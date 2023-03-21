@@ -14,7 +14,7 @@ Here's an overview of the project structure:
 - script.js: This is the main JavaScript file that contains all the code for the calculator logic and user interactions.
 - style.css: This is the CSS file that defines the styles and layout for the HTML elements.
 
-Running the Project
+Running the Project:
 
 To run the project, simply open the index.html file in your web browser. You should see the calculator application running and ready to use.
 
@@ -25,6 +25,6 @@ How to Use the Calculator
 - Press the equals button (=) to perform the calculation.
 - The result will be displayed on the calculator screen.
 
-Conclusion
+Conclusion:
 
 I'm excited to continue learning more about JavaScript and to build more advanced applications in the future. Thanks for checking out my first JavaScript project, a calculator application!
